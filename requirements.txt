@@ -1,0 +1,11 @@
+echo "fastapi
+uvicorn[standard]
+scikit-learn
+numpy
+pandas
+joblib
+pydantic
+python-multipart
+requests
+beautifulsoup4
+python-whois" > requirements.txt
